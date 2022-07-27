@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://atomicenderdragon.github.io/website/sitemap.xml

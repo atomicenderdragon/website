@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>my cool site</title>
+    <link href="https://atomicenderdragon.github.io/website/feed.xml" rel="self" />
+    <link href="https://atomicenderdragon.github.io/website" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>atomified</name>
+    </author>
+    <id>https://atomicenderdragon.github.io/website</id>
+
+</feed>
